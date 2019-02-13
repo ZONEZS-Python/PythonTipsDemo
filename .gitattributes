@@ -1,6 +1,3 @@
-*.js linguist-language=py
-*.css linguist-language=py
-*.html linguist-language=py
 *.py linguist-language=py
 *.csv linguist-language=py
 *.json linguist-language=py
